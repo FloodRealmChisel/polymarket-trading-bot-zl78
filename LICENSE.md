@@ -1,4 +1,4 @@
-# 
+# Polymarket smart Strategy: arbitrage-detection & volatility-detection offers the most advanced Polymarket strategy, with arbitrage-detection and volatility-detection. Ideal for
 
 
 
